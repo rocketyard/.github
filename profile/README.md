@@ -13,6 +13,7 @@
 | [Events Scraper](https://apify.com/rocketyard/event-schema-scraper) | Dates, status, venue, address, coordinates and ticket prices when listed |
 | [Article Scraper](https://apify.com/rocketyard/article-schema-scraper) | Headline, publisher, dates, language, full text and word count from news sites and blogs |
 | [Company Info Scraper](https://apify.com/rocketyard/organization-schema-scraper) | Name, logo, website, social profiles and full address from a company's own site |
+| [Hotel Details Scraper](https://apify.com/rocketyard/hotel-schema-scraper) | Name, full address, coordinates, phone, check-in and check-out times from hotel websites, plus star rating, rooms and amenities when published |
 
 The full, current list with prices, field lists and sample outputs is at [rocketyard.dev](https://rocketyard.dev).
 
