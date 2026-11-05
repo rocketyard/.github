@@ -8,12 +8,14 @@
 | --- | --- |
 | [Greenhouse Jobs Scraper](https://apify.com/rocketyard/greenhouse-jobs-scraper) | Every open job on a Greenhouse board via the official public API: title, department, locations, dates, description, apply link, salary range when published |
 | [Ashby Jobs Scraper](https://apify.com/rocketyard/ashby-jobs-scraper) | Every open job on an Ashby board via the official public API: team, employment type, remote or hybrid, locations, description, salary range when published |
+| [Lever Jobs Scraper](https://apify.com/rocketyard/lever-jobs-scraper) | Every open job on a Lever board via the official public API: department, team, employment type, remote or hybrid, locations, apply link, salary range when published |
 | [Job Postings Scraper](https://apify.com/rocketyard/jobposting-schema-scraper) | Job postings from any career site: title, company, location, posting date, description |
 | [Product Scraper](https://apify.com/rocketyard/product-schema-scraper) | Name, SKU, image, price, currency and stock from any online store, plus brand and rating when shown |
 | [Events Scraper](https://apify.com/rocketyard/event-schema-scraper) | Dates, status, venue, address, coordinates and ticket prices when listed |
 | [Article Scraper](https://apify.com/rocketyard/article-schema-scraper) | Headline, publisher, dates, language, full text and word count from news sites and blogs |
 | [Company Info Scraper](https://apify.com/rocketyard/organization-schema-scraper) | Name, logo, website, social profiles and full address from a company's own site |
 | [Hotel Details Scraper](https://apify.com/rocketyard/hotel-schema-scraper) | Name, full address, coordinates, phone, check-in and check-out times from hotel websites, plus star rating, rooms and amenities when published |
+| [App Store & Google Play Scraper](https://apify.com/rocketyard/softwareapp-schema-scraper) | App name, description, image, category, operating system and price, plus rating and rating count when published |
 
 The full, current list with prices, field lists and sample outputs is at [rocketyard.dev](https://rocketyard.dev).
 
