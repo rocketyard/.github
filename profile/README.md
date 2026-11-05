@@ -54,7 +54,7 @@ For AI agents, connect Apify's MCP server: `https://mcp.apify.com?tools=rocketya
 
 - **Data first**: before a release, each Actor must fill its key fields on real public pages. We don't advertise fields our tests can't fill reliably.
 - **Tested on every release**: each build runs on the Apify platform before it goes live and rolls back automatically if a post-release check fails.
-- **Public data only**: no logins, no paywall or CAPTCHA bypass, robots.txt honoured, no personal data.
+- **Public data only**: no logins, no paywall or CAPTCHA bypass, no private profiles or personal emails.
 - **Pay per result**: no subscription. Apify handles billing, and you can cap the cost of any run.
 
 ## Contact
